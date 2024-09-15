@@ -6,8 +6,8 @@ public class PaymentSystem {
         payment payment3 = new BankTransferPayment(); // Polymorphism
         
         
-        payment1.makePayment(100.0);  // Output: Processing credit card payment of $100.0
-        payment2.makePayment(200.0);  // Output: Processing PayPal payment of $200.0
-        payment3.makePayment(300.0);  // Output: Processing bank transfer payment of $300.0
+        payment1.makePayment(100.0);  
+        payment2.makePayment(200.0);  
+        payment3.makePayment(300.0);  
     }
 }
