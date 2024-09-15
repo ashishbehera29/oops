@@ -29,3 +29,8 @@ Inheritance->
      4-hierachical inheritance->one or more sub class inherit the property from one super class
      5-hybrid inheritance->combination of any two or more inheritance.
 
+Polymerphism->
+*An object showing diffrent behaviour at diffrent stages of its lyfecycle
+*There are two types of polymerphism
+         1-completime polymephism(overloading)
+         2-runtime polymerphism(is-a relationshi, method overriding,typecasting)
