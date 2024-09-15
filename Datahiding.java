@@ -1,3 +1,6 @@
+//Encapsulatuion 
+//to access the priavte data we use geeter setter method
+
 public class Datahiding {
       public class  employee {
         private int id;
